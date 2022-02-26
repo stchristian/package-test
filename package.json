@@ -1,0 +1,19 @@
+{
+  "name": "@stchristian/package-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stchristian/package-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stchristian/package-test/issues"
+  },
+  "homepage": "https://github.com/stchristian/package-test#readme"
+}
